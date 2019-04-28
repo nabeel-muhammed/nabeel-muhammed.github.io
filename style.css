@@ -3,8 +3,8 @@
 }
 header{
 
-	height: 10%;
-	padding: .5%;
+	height: 15%;
+	padding: .7%;
 	overflow: hidden;
 	position: fixed;
 }
@@ -21,7 +21,7 @@ header h1{
 }
 .headimg{
 	border: 6px solid black;	
-	width: 5%;
+	width: 6%;
 
 }
 .info p{
