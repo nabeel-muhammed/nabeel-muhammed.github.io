@@ -135,6 +135,10 @@ header h1{
 	border: none;
 	margin-right: none;
 	margin-left: none;	
-}
+ }
+ .info p,.info h1{
+ 	margin-left: 2%;
+ 	margin-right: 2%;
+ }
 
 }
